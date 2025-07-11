@@ -41,3 +41,12 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </p>
+
+### 🌐 External API & Integration
+<p>
+  <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kakao%20Login-FFCD00?style=flat&logo=kakao&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Login-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kakao%20Map-3C1E1E?style=flat&logo=kakao&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=flat&logo=toss&logoColor=white" />
+</p>
