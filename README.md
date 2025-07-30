@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
 </p>
 
-### 🛠 Backend / Infra
+### 🛠 Backend / DB
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
