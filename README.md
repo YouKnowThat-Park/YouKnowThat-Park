@@ -15,6 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF0075?style=flat&logo=framer&logoColor=white" />
 </p>
 
 ### ⚙️ State Management / Query
