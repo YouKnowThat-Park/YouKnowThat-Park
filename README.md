@@ -64,4 +64,7 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 
+  
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="30" />
+
 </p>
