@@ -58,3 +58,10 @@
   <img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=flat&logo=toss&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white" />
 </p>
+
+
+### 🏃🏻‍♂️‍➡️ Now Learning
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+
+</p>
