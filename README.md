@@ -48,6 +48,10 @@
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+
 </p>
 
 ### 🌐 External API & Integration
@@ -60,10 +64,3 @@
   <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
-
-### 🏃🏻‍♂️‍➡️ Now Learning
-<p>
- 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="30" />
-
-</p>
