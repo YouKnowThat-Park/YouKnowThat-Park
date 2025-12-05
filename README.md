@@ -61,6 +61,6 @@
   <img src="https://img.shields.io/badge/Google%20Login-4285F4?style=flat&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Kakao%20Map-3C1E1E?style=flat&logo=kakao&logoColor=white" />
   <img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=flat&logo=toss&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
